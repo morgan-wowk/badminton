@@ -53,7 +53,7 @@ function SocialMixerPage() {
                 </div>
                 <div className={Styles.ControlArea}>
                     <div className={Styles.ControlPanel}>
-                        {/* Badminton Social Mixer */}
+                        Social Mixer
                     </div>
                 </div>
             </div>
